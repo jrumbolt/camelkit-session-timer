@@ -1,11 +1,11 @@
 {
-  "name": "camelkit-example-plugin",
+  "name": "camelkit-session-timer",
   "version": "1.0.0",
-  "description": "Example & Starter Template for CamelKit Plugins",
+  "description": "A lightweight session timer plugin for CamelKit",
   "type": "module",
   "license": "GPL-3.0-only",
-  "author": "CamelKit Contributor",
-  "main": "src/ExamplePlugin.ts",
+  "author": "jrumbolt",
+  "main": "src/SessionTimer.ts",
   "scripts": {
     "build": "node build.mjs",
     "dev": "node build.mjs --watch",
